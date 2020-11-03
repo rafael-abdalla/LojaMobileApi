@@ -1,0 +1,7 @@
+let db = {
+  produtos: [
+      {
+        
+      }
+  ]
+}
